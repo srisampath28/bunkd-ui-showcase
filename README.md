@@ -42,3 +42,21 @@ Project screenshots are available in the screenshots folder.
 ## Role
 
 Frontend UI/UX development, dashboard interfaces, responsive layouts, analytics visualizations, and platform design systems.
+
+## Screenshots
+
+### Campus Mode
+
+![Campus Mode](screenshots/campus.png)
+
+### Hostel Mode
+
+![Hostel Mode](screenshots/hostel.png)
+
+### Operations Hub
+
+![Operations Hub](screenshots/operations.png)
+
+### analytics
+
+![Audience Intelligence](screenshots/analytics.png)
