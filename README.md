@@ -82,5 +82,3 @@ Frontend showcase of a campus-commerce inspired application.
 - Stall Cards
 - Dashboard Analytics Cards
 - Bottom Navigation
-
-## Screenshots
