@@ -60,3 +60,27 @@ Frontend UI/UX development, dashboard interfaces, responsive layouts, analytics 
 ### analytics
 
 ![Audience Intelligence](screenshots/analytics.png)
+
+
+# Bunkd UI Showcase
+
+## Overview
+
+Frontend showcase of a campus-commerce inspired application.
+
+## Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Components Included
+
+- Animated Search Bar
+- Category Navigation
+- Stall Cards
+- Dashboard Analytics Cards
+- Bottom Navigation
+
+## Screenshots
